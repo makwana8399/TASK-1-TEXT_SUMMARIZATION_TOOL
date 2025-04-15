@@ -4,9 +4,9 @@
 
 *NAME*: HARSHIL R. DARJI
 
-"INTERN ID*: C0DF301
+*INTERN ID*: C0DF301
 
-"DOMAIN*: Artificial Intelligence Markup Language.
+*DOMAIN*: Artificial Intelligence Markup Language.
 
 *DURATION*: 4 WEEEKS
 
