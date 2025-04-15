@@ -12,7 +12,7 @@
 
 *NENTOR*: NEELA SANTOSH
 
-# Article Summarizer Using Python – Project Overview
+# Article Summarizer Using NLP – Project Overview
 In today’s fast-paced digital world, we are constantly surrounded by vast amounts of online content. Reading lengthy articles, blogs, or reports can be time-consuming and overwhelming. To address this challenge, I developed an Article Summarizer using Python, designed to condense long articles into short, meaningful summaries while preserving the core message.
 
 This summarizer uses the power of Natural Language Processing (NLP), allowing it to understand and process human language effectively. I employed popular Python libraries like NLTK, spaCy, and Hugging Face’s Transformers to perform both extractive and abstractive summarization. Extractive summarization picks key sentences from the original text, while abstractive summarization rewrites the content in a more concise form, much like how a human would summarize.
