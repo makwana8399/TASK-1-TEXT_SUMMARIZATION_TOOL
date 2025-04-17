@@ -41,6 +41,6 @@ E-learning: Deliver key takeaways from educational content, enhancing learning e
 
 In summary, this project showcases the effectiveness of Python for building real-world NLP tools. By combining the power of libraries like: Transformers, Torch and nlkt with learning resources like ChatGPT, GeeksforGeeks, and YouTube and building in a productive environment like VS Code, I created a practical tool that saves time and boosts productivity. As content continues to grow, such summarization tools are becoming increasingly essential for users who need quick, accurate insights from large volumes of text.
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/12926b33-d30d-4567-8240-a5e09fe38d8a)
