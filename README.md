@@ -12,7 +12,7 @@
 
 *NENTOR*: NEELA SANTOSH
 
-# Article Summarizer Using NLP 
+# TEXT SUMMARIZATION TOOL 
 
 In today’s fast-paced digital world, we are constantly surrounded by vast amounts of online content. Reading lengthy articles, blogs, or reports can be time-consuming and overwhelming. To address this challenge, I developed an Article Summarizer using Python, designed to condense long articles into short, meaningful summaries while preserving the core message.
 
