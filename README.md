@@ -8,7 +8,7 @@
 
 *DOMAIN*: Artificial Intelligence Markup Language.
 
-*DURATION*: 4 WEEEKS
+*DURATION*: 15 DAYS
 
 *MENTOR*: NEELA SANTOSH
 
